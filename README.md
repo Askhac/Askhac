@@ -10,3 +10,4 @@
 Askhac/Askhac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+docker run --rm -it amazonlinux:2023.2.20231011.0 sh
